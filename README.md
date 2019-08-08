@@ -12,4 +12,4 @@ Algorithm 4: Quick Sort
 
 Dafny is an imperative language that supports formal specification through preconditions, postconditions, loop invariants and loop variants.
 
-In this repository you will find my solutions to the exercises given in the Dafny tutorial guide found at this link: https://rise4fun.com/Dafny/tutorial
+Guide to Dafny can be found here ([pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/krml220.pdf))
